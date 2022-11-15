@@ -1,19 +1,21 @@
-\begin{table*}
-\caption{\label{tab:table1}Summary Table}
-\begin{center}
-\renewcommand{\arraystretch}{0.7}
-\small
-\begin{tabular}{}
+% Please add the following required packages to your document preamble:
+% \usepackage{multirow}
+\begin{table}[]
+\begin{tabular}{lllllll}
 \hline
-Method & Head 1 & Head 2 & Head 3 & Head 4 & Head 5\\
-\midrule
-\multicolumn{6}{c}{\textbf{Model: FF3F}}\\
-\midrule
-\multicolumn{6}{l}{\textbf{\alpha}}\\
-Method A & -0.2703 & -0.00248 & 0.0490 & 0.1743 & 0.1921\\
-Method A  & -0.2706 & -0.00215 & 0.0498 & -0.1726 & 0.1960\\
-Method A  & -0.2706 & -0.00215 & 0.0497 & -0.1732 & 0.1948\\
-\hline
+\multirow{2}{*}{} &
+  \multicolumn{2}{l}{Changes at first visit, No. (%   of medicines prescribed at baseline)} &
+  \multicolumn{2}{l}{Persistent changes at 4   months,[1] No. (% of changes at first visit)} &
+  \multicolumn{2}{l}{Persistent changes at 13   months,a No. (% of   changes at first visit)} \\ \cline{2-7} 
+                                   & Medication review & Usual care & Medication review & Usual care & Medication review & Usual care \\ \cline{1-1}
+\textbf{Overprescribed medicines}  &                   &            &                   &            &                   &            \\
+~~Discontinued                     & 628 (26)          & 224 (8.7)  & 565 (91)          & 191 (86)   & 481 (82)          & 176 (83)   \\
+~~Reduced dosage                   & 202 (8.3)         & 83 (3.2)   & 154 (78)          & 61 (76)    & 96 (54)           & 45 (61)    \\
+\textbf{Underprescribed medicines} &                   &            &                   &            &                   &            \\
+~~New medication                   & 175               & 92         & 132 (75)          & 62 (67)    & 103 (62)          & 43 (49)    \\
+~~Increased dosage                 & 52 (2.1)          & 27 (1)     & 39 (75)           & 21 (78)    & 28 (59)           & 15 (58)    \\
+\textbf{Other}                     &                   &            &                   &            &                   &            \\
+~~Other change                     & 113 (4.7)         & 24 (0.9)   & 86 (76)           & 22 (92)    & 63 (59)           & 13 (59)    \\
+~~Unchanged                        & 1429 (59)         & 2230 (86)  & 1159 (81)         & 1751 (82)  & 929 (68)          & 1329 (67) 
 \end{tabular}
-\end{center}
-\end{table*}
+\end{table}
