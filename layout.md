@@ -21,6 +21,8 @@ fakmn9loorg.tex
 kokh7qp9jn8.tex
 6akjn78dujo.tex
 25a7h69rlpo.html
+6nlddi1gtt.tex
+s6bkfkmbht8.html
 longtable_llll_topru.html
 protecthypertarget_H.html
 longtable_ccrrrr_top.html
