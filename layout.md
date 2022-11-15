@@ -1,5 +1,4 @@
 abstract.html
-sectionTitle_pagelab.html
 8m8m5muc5ng.tex
 fkhel841c7g.html
 textbfBullet_point_s.html
