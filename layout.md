@@ -21,8 +21,6 @@ fakmn9loorg.tex
 kokh7qp9jn8.tex
 6akjn78dujo.tex
 25a7h69rlpo.html
-longtable_clll_topru.html
-Table_4_Rebounds_aft.html
 longtable_llll_topru.html
 protecthypertarget_H.html
 longtable_ccrrrr_top.html
