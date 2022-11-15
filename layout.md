@@ -26,7 +26,6 @@ longtable_llll_topru.html
 protecthypertarget_H.html
 longtable_ccrrrr_top.html
 sectionFigure_legend.html
-figures/Figure_111
 figures/Figure_11
 figures/Figure_1
 figures/Figure_2
