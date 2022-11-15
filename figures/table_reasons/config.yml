@@ -18,3 +18,4 @@ grid:
     - 1
     url: "/users/522596/articles/595019/master/file/figures/table_reasons/table_reasons.xlsx"
     folder_url: "/users/522596/articles/595019/master/folder/figures/table_reasons"
+    treatFirstLineAsHeader: true
