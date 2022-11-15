@@ -22,6 +22,8 @@ gc8ad8hh9q.html
 fakmn9loorg.tex
 6akjn78dujo.tex
 25a7h69rlpo.html
+072q8l1o7do.tex
+pt9676nuqco.html
 k0e9aqff2h8.tex
 6nlddi1gtt.tex
 b8vvnm0k8fg.tex
