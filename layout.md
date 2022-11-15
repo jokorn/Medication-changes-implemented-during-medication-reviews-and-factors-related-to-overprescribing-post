@@ -22,7 +22,6 @@ kokh7qp9jn8.tex
 6akjn78dujo.tex
 25a7h69rlpo.html
 6nlddi1gtt.tex
-protecthypertarget_H.html
 b8vvnm0k8fg.tex
 longtable_ccrrrr_top.html
 sectionFigure_legend.html
