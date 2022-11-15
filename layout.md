@@ -28,5 +28,4 @@ longtable_ccrrrr_top.html
 sectionFigure_legend.html
 figures/Figure_11
 figures/Figure_21
-figures/Figure_3
 figures/Figure_31
