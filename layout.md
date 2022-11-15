@@ -9,7 +9,6 @@ qgk3hjskhn.html
 sectionMain.html
 svt4bu5ap08.tex
 lbpa0g5hoi8.html
-sectionIntroductionl.html
 sectionMethodslabelm.html
 textbfBaseline_data_.html
 textbfMedicine_data_.html
