@@ -20,7 +20,6 @@ sectionTableslabelta.html
 longtable_lllllll_to.html
 Table_2_Primary_reas.html
 figures/table_reasons
-longtable_ll_toprule.html
 Table_3_Top_10.html
 longtable_clll_topru.html
 Table_4_Rebounds_aft.html
