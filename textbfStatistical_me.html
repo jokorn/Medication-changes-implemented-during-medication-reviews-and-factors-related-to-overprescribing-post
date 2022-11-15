@@ -1,0 +1,57 @@
+<div><b>Statistical methods</b></div><div>All medicines were aggregated per patient according to the fifth level
+codes (substance) in the Anatomical Therapeutic Chemical (ATC)
+Classification System.<sup>9</sup> Based on these aggregated
+data, the medicine changes were computed from the differences in the
+prescribed medicines at the different time points (baseline, after first
+visit, follow-up after 4 months, and follow-up after 13 months). If a
+medicine was still discontinued or prescribed with precisely the same
+dosage <i>after</i> the first visit and at a follow-up visit, then the
+medicine change at the first visit was described as <i>persistent</i> .<i>Overprescribed</i> medicines were defined as medicines that were
+discontinued or reduced in dosage at the first visit in the outpatient
+clinic. <i>Underprescribed</i> medicines were defined as medicines that
+were prescribed or increased in dosage at the first visit in the
+outpatient clinic. <i>Rebounds</i> were defined as medicines that were
+prescribed again following discontinuation.</div><div>The number of medicines prescribed at baseline was summarized according
+to the therapeutic subgroups (second level ATC). The number of
+underprescribed and overprescribed medicines were then plotted as a
+function of the total number of medicines at baseline with trend lines
+using loess regression.<sup>10</sup> The medicine changes per
+group at the first visit were summarized descriptively along with the
+persistence of these changes. To identify the medicines that were more
+often discontinued during the medication review, we calculated the
+absolute difference in the proportions of discontinuations per medicine
+between groups. Only medicines prescribed to at least ten patients at
+baseline were included in the calculation. Rebounds were summarized for
+medicines with at least five discontinuations during the first visit. To
+compare the proportion of discontinuations and rebounds between groups,
+we plotted the ratio of the number of medicines prescribed at each time
+point to the number of medicines prescribed at baseline for
+pharmacological subgroups (third level ATC). Only subgroups with at
+least 40 medicines prescribed in both groups at baseline and at least 10
+discontinuations in the medication review group during the first visit
+were included.</div><div>The reason(s) for discontinuations in the medication review group were
+registered prospectively, and based on these the <i>primary</i> reason
+for discontinuation was determined using the following hierarchy: 1)
+Treatment not indicated; 2) Treatment with no or poor effect; 3)
+Safety-related issues; 4) Patient preferences and circumstances; and 5)
+Unknown reason.</div><div>Lastly, to identify factors related to the number of overprescribed
+medicines, we created two exploratory models using all the subjects from
+the medication review group. One model included all patient baseline
+characteristics (to identify patient-related factors) and the other
+included all medicine groups (ATC fourth level, chemical subgroup)
+prescribed at baseline (to identify medicines that were associated with
+overprescribing). As the predicted variable was a count of
+overprescribed medicines, we fitted generalized linear models with a
+quasi-Poisson distribution (log link) using R version
+3.6.3<sup>11</sup> with the tidymodel<sup>12</sup> and
+poissonreg<sup>13</sup> packages. For both models, we first
+fitted a full model using all variables excluding variables with
+near-zero variance. The statistically significant variables (defined as
+P &lt; 0.05) from the full models were then further explored in
+univariate models. The models were purely exploratory and confidence
+limits and P-values were not adjusted for multiple
+comparisons. To illustrate the results
+from the models, model predictions using estimated marginal
+means<sup>14</sup> were plotted for all patient baseline
+characteristics that were statistically significant in both the full and
+univariate models.</div>
