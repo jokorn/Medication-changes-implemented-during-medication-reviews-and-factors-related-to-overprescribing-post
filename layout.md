@@ -24,7 +24,6 @@ kokh7qp9jn8.tex
 6nlddi1gtt.tex
 b8vvnm0k8fg.tex
 longtable_ccrrrr_top.html
-sectionFigure_legend.html
 figures/Figure_11
 figures/Figure_21
 figures/Figure_31
