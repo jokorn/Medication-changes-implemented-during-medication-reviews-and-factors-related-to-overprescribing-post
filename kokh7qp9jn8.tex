@@ -1,21 +1,26 @@
+% Please add the following required packages to your document preamble:
+% \usepackage{booktabs}
+% \usepackage{graphicx}
 \begin{table}[]
+\resizebox{\columnwidth}{!}{%
 \begin{tabular}{@{}lr@{}}
 \toprule
 \textbf{Primary reason for discontinuation} & \multicolumn{1}{l}{\textbf{Number of medicines}} \\ \midrule
 Indication                                  & 455 (72\%)                                       \\
-\quad Treatment no longer indicated               &                                                  \\
+Treatment no longer indicated               &                                                  \\
 Unknown                                     & 48 (8\%)                                         \\
-  Reason for discontinuation not described    &                                                  \\
+Reason for discontinuation not described    &                                                  \\
 Safety                                      & 47 (7\%)                                         \\
-  Adverse drug reaction                       &                                                  \\
-  Risk of adverse drug reaction               &                                                  \\
-  Risk due to drug-drug interactions          &                                                  \\
-  Risk due to drug-disease interactions       &                                                  \\
+Adverse drug reaction                       &                                                  \\
+Risk of adverse drug reaction               &                                                  \\
+Risk due to drug-drug interactions          &                                                  \\
+Risk due to drug-disease interactions       &                                                  \\
 Efficacy                                    & 39 (6\%)                                         \\
 Poor or no effect of the treatment          &                                                  \\
 Patient preferences and circumstances       & 39 (6\%)                                         \\
 Treatment too expensive                     &                                                  \\
 Patient does not wish to take the medicine  &                                                  \\
 Patient cannot administer the medicine      &                                                  \\ \bottomrule
-\end{tabular}
-\end{table
+\end{tabular}%
+}
+\end{table}
