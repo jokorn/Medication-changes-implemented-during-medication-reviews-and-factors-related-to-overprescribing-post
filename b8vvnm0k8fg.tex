@@ -1,12 +1,12 @@
 \begin{table}[]
-
-\begin{tabularx}{}{
-    X
-    X
-    X
-    r
-    X
-    r
+\renewcommand{\tabularxcolumn}[1]{m{#1}}
+\begin{tabularx}{\textwidth}{
+     m{\textwidth}
+     r
+     X
+     r
+     X
+     r
 }
 \toprule
 \multirow{2}{*}{} &
@@ -78,4 +78,4 @@ Drugs for urinary frequency and   incontinence &
 ~~Solifenacin                                & 1           &                             &         &                           &                \\
 ~~Trospium                                   & 1           &                             &         &                           &                \\ \bottomrule
 \end{tabular}
-\end{table}
+\end{table}idth
