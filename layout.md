@@ -18,7 +18,6 @@ sectionConflict_of_i.html
 sectionFunding_infor.html
 sectionData_availabi.html
 sectionReferenceslab.html
-sectionTableslabelta.html
 51eb5ndrg7o.tex
 0um5qkh6dn8.html
 fakmn9loorg.tex
