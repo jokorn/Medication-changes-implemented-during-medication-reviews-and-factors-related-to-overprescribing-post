@@ -20,7 +20,6 @@ sectionData_availabi.html
 sectionReferenceslab.html
 51eb5ndrg7o.tex
 0um5qkh6dn8.html
-fakmn9loorg.tex
 smkmmko4hjo.tex
 0chu6bj6r9.tex
 u1hlo6iorvg.tex
