@@ -1,1 +1,1 @@
-**Methods:**
+**Methods:**Post-hoc analyses of data from a pragmatic, non-blinded, randomized clinical trial investigating a medication review intervention (NCT03911934) in 408 geriatric outpatients taking ≥ 9 medicines.
